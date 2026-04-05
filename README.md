@@ -1,6 +1,6 @@
 <div>
   <img style="width:100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=9370DB" />
+       src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=9370DB" />
 </div>
 <table>
   <tr>
