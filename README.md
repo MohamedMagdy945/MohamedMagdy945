@@ -13,7 +13,7 @@
       </p>
     </td>
     <td width="40%">
-      <img src="images/rebot.png" width="100%" />
+      <img src="images/My-rebot.png" width="100%" />
     </td>
   </tr>
 </table>
