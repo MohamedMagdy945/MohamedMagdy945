@@ -4,6 +4,12 @@
 
 ###
 
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 I'm Mohamed Magdy</h1>
 
 ###
@@ -14,7 +20,7 @@
 
 <p align="left">
 I’m a passionate backend developer focused on building scalable and maintainable systems using .NET technologies.<br>
-Currently exploring DevOps practices and working on real-world freelance projects.
+Currently working on freelance projects and exploring DevOps practices.
 </p>
 
 ###
@@ -37,17 +43,21 @@ Currently exploring DevOps practices and working on real-world freelance project
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".net logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
 </div>
 
 ###
@@ -62,17 +72,5 @@ Currently exploring DevOps practices and working on real-world freelance project
 - Writing optimized queries with LINQ & SQL Server<br>
 - Containerization using Docker & Kubernetes<br>
 </p>
-
-###
-
-<h2 align="left">🌐 Connect With Me</h2>
-
-###
-
-<div align="left">
-  <a href="YOUR_LINKEDIN_HERE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-</div>
 
 ###
