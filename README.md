@@ -1,16 +1,11 @@
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt" />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&theme=tokyonight" />
 </div>
 
 ###
 
 <table>
 <tr>
-<td width="40%">
-
-<img src="https://i.imgflip.com/65efzo.gif" width="100%" />
-
-</td>
 <td width="60%">
 
 <h1>Hey 👋 I'm Mohamed Magdy</h1>
@@ -21,6 +16,11 @@
 I’m a passionate backend developer focused on building scalable and maintainable systems using .NET technologies.<br>
 Currently working on freelance projects and exploring DevOps practices.
 </p>
+
+</td>
+<td width="40%">
+
+<img src="https://i.imgflip.com/65efzo.gif" width="100%" />
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ Currently working on freelance projects and exploring DevOps practices.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" />
+  <img src="https://api.apidog.com/logo.svg" height="40" />
 </div>
 
 ###
