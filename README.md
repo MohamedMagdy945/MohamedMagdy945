@@ -2,42 +2,30 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&theme=tokyonight" />
 </div>
 
-###
-
 <table>
-<tr>
-<td width="60%">
-
-<h1>Hey 👋 I'm Mohamed Magdy</h1>
-
-<h3>Junior Backend Developer | Aspiring DevOps Engineer</h3>
-
-<p>
-I’m a passionate backend developer focused on building scalable and maintainable systems using .NET technologies.<br>
-Currently working on freelance projects and exploring DevOps practices.
-</p>
-
-</td>
-<td width="40%">
-
-<img src="https://i.imgflip.com/65efzo.gif" width="100%" />
-
-</td>
-</tr>
+  <tr>
+    <td width="60%">
+      <h1>Hey 👋 I'm Mohamed Magdy</h1>
+      <h3>Junior Backend Developer | Aspiring DevOps Engineer</h3>
+      <p>
+        I’m a passionate backend developer focused on building scalable and maintainable systems using .NET technologies.<br>
+        Currently working on freelance projects and exploring DevOps practices.
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://i.imgflip.com/65efzo.gif" width="100%" />
+    </td>
+  </tr>
 </table>
-
-###
 
 <h2 align="left">🚀 About Me</h2>
 
 <p align="left">
-✨ Creating bugs since 2022 😄<br>
-📚 Currently learning Microservices, DevOps & System Design<br>
-🎯 Goal: Become a Senior Backend Engineer<br>
-💡 Strong in Problem Solving, Design Patterns & Clean Architecture principles
+  ✨ Creating bugs since 2022 😄<br>
+  📚 Currently learning Microservices, DevOps & System Design<br>
+  🎯 Goal: Become a Senior Backend Engineer<br>
+  💡 Strong in Problem Solving, Design Patterns & Clean Architecture principles
 </p>
-
-###
 
 <h2 align="left">🛠 Tech Stack</h2>
 
@@ -57,19 +45,13 @@ Currently working on freelance projects and exploring DevOps practices.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://api.apidog.com/logo.svg" height="40" />
 </div>
-
-###
 
 <h2 align="left">⚡ What I Focus On</h2>
 
 <p align="left">
-- Building scalable Web APIs using ASP.NET Core<br>
-- Applying Clean Architecture & SOLID principles<br>
-- Writing optimized queries with LINQ & SQL Server<br>
-- Containerization using Docker & Kubernetes<br>
+  - Building scalable Web APIs using ASP.NET Core<br>
+  - Applying Clean Architecture & SOLID principles<br>
+  - Writing optimized queries with LINQ & SQL Server<br>
+  - Containerization using Docker & Kubernetes
 </p>
-
-###
