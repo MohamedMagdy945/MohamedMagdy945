@@ -1,11 +1,11 @@
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&theme=tokyonight" />
+  <img style="width:100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&color=9370DB" />
 </div>
-
 <table>
   <tr>
     <td width="60%">
-      <h1>Hey 👋 I'm Mohamed Magdy</h1>
+      <h2>Hey 👋 I'm Mohamed Magdy</h2>
       <h3>Junior Backend Developer | Aspiring DevOps Engineer</h3>
       <p>
         I’m a passionate backend developer focused on building scalable and maintainable systems using .NET technologies.<br>
@@ -13,7 +13,7 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://i.imgflip.com/65efzo.gif" width="100%" />
+      <img src="images/rebot.png" width="100%" />
     </td>
   </tr>
 </table>
