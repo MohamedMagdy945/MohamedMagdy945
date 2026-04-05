@@ -4,30 +4,31 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
-</div>
+<table>
+<tr>
+<td width="40%">
 
-###
+<img src="https://i.imgflip.com/65efzo.gif" width="100%" />
 
-<h1 align="left">Hey 👋 I'm Mohamed Magdy</h1>
+</td>
+<td width="60%">
 
-###
+<h1>Hey 👋 I'm Mohamed Magdy</h1>
 
-<h3 align="left">Junior Backend Developer | Aspiring DevOps Engineer</h3>
+<h3>Junior Backend Developer | Aspiring DevOps Engineer</h3>
 
-###
-
-<p align="left">
+<p>
 I’m a passionate backend developer focused on building scalable and maintainable systems using .NET technologies.<br>
 Currently working on freelance projects and exploring DevOps practices.
 </p>
 
+</td>
+</tr>
+</table>
+
 ###
 
 <h2 align="left">🚀 About Me</h2>
-
-###
 
 <p align="left">
 ✨ Creating bugs since 2022 😄<br>
@@ -39,8 +40,6 @@ Currently working on freelance projects and exploring DevOps practices.
 ###
 
 <h2 align="left">🛠 Tech Stack</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -58,13 +57,13 @@ Currently working on freelance projects and exploring DevOps practices.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" />
 </div>
 
 ###
 
 <h2 align="left">⚡ What I Focus On</h2>
-
-###
 
 <p align="left">
 - Building scalable Web APIs using ASP.NET Core<br>
